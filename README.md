@@ -1,0 +1,2 @@
+# item_modifier-set_lore
+item_modifierの1項目であるset_loreに関するサンプルになります。
